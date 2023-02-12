@@ -59,8 +59,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1></h1>;
-  const two = <h2 className="big-heading">Adrien Chaput</h2>;
-  const three = <h1 className="big-heading">SmartContract | web3 engineer</h1>;
+  const two = <h2 className="big-heading">James Aoki</h2>;
+  const three = <h1 className="big-heading">Full stack Engineer</h1>;
   const four = (
     <>
       <p> Who lives on the <b>trust</b> with customers and the <b>love</b> of users. </p>

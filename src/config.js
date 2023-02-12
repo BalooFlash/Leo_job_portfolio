@@ -1,10 +1,26 @@
 module.exports = {
-  email: 'solananinjadev@gmail.com',
+  email: 'jamesaoki7@gmail.com',
 
   socialMedia: [
     {
+      name: 'Codepen',
+      url: 'mailto:jamesaoki7@gmail.com',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://discord.com/users/941586639602479174',
+    },
+    {
+      name: 'PlayStore',
+      url: 'https://t.me/DripMicro',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://join.skype.com/invite/EFeSGDmc1Sin',
+    },
+    {
       name: 'GitHub',
-      url: 'https://github.com/Backendeng',
+      url: 'https://github.com/DripMicro',
     },
     // {
     //   name: 'Instagram',

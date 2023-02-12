@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'solananinjadev@gmail.com',
+  email: 'jamesaoki7@gmail.com@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Backendeng',
+      url: 'https://github.com/DripMicro',
     },
     // {
     //   name: 'Instagram',

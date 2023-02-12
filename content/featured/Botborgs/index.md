@@ -1,15 +1,15 @@
 ---
 date: '2'
 title: 'Botborgs'
-cover: './demo.png'
+cover: './DexBattle.png'
 github: ''
-external: 'https://solanart.io/collections/botborgs'
+external: 'https://dexbattle.com/'
 tech:
   - React
-  - Solana
-  - Rust
-  - Metaplex
-  - Unity
+  - Solidity
+  - Redux
+  - Web3.js
+  - Moralis
 ---
 
-A P2E open world sci-fi Metaverse built on a multiplanetary...
+A P2E open world sci-fi, NFT Minting and Earning Dex coin

@@ -1,9 +1,9 @@
 ---
 date: '2022-05-14'
-title: 'SmartContract engineer'
+title: 'Full stack | smart contract Developer'
 company: 'Doodcats'
 location: 'Thailand'
-range: 'February 2022 - Present'
+range: 'July 2021 - September 2022'
 url: 'https://doodcats.net/'
 ---
 
@@ -13,3 +13,7 @@ url: 'https://doodcats.net/'
 - Designed staking Dapp that stakes several type of NFTs & sDOOD token.
 - Proposed & implemented a new idea to attract users. (especially: UpgradeLevel function)
 - Tactfully, Solved the risk with the web3 function.
+- Built Minting site using React and Web3
+- Developed wallet connect feature using React and web3-walletconnector
+- Developed responsive websites in Antd(React ), CSS/SASS and Antd.
+- Built the foundations of a React components library to integrate into web applications.

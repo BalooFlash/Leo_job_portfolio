@@ -9,6 +9,6 @@ tech:
   - React
   - Remix
   - Truffle
-  - Ether.js
+  - Web3.js
 ---
 Excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD token everyday.

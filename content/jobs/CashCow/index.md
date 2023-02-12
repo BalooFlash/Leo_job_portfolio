@@ -1,14 +1,14 @@
 ---
 date: '2021-12-21'
-title: 'SmartContract | web3 developer'
-company: 'CashCow'
+title: 'Full Stack | Web3 developer'
+company: 'Gyro'
 location: 'United States'
-range: 'January 2021 - April 2022'
-url: 'https://cashcowprotocol.com/'
+range: 'January 2021 - June 2021'
+url: 'https://www.gyro.money/'
 ---
 
-- Created & released CashCow token and created liquidity mining pool on pancakeswap.
-  (Leveraged the rOwned,tOwend functions to distribute rewards to holders.)
-- Developed NFT staking contract past the Audit from SlowMist.
-- Implemented basic features of NFT marketplace, such as auditing.
-- Architected backend server using web3 and Node.js/Express.
+- Deployed smart contract and minting site on Eth main net.
+- Implemented Private Sale and bond calculator.
+- Built the company and stacking website integrated with React, Web3.JS, and API.
+- Implemented UI layouts with Ant Design, Material-UI, and styled components.
+- Migrated Gatsby and GraphQL for improving the page load speed, server-side rendering, and code splitting.

@@ -9,9 +9,9 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/BrainStorm0417" target="_blank">v1</a>,
-  <a href="https://github.com/BrainStorm0417" target="_blank">v2</a>,
-  <a href="https://github.com/BrainStorm0417" target="_blank">v3</a>
+  <a href="https://github.com/DripMicro" target="_blank">v1</a>,
+  <a href="https://github.com/DripMicro" target="_blank">v2</a>,
+  <a href="https://github.com/DripMicro" target="_blank">v3</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
