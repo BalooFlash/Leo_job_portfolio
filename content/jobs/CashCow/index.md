@@ -1,14 +1,14 @@
 ---
-date: '2021-12-21'
-title: 'Full Stack | Web3 developer'
-company: 'Gyro'
+date: '2023-2-20'
+title: 'Senior JS | React | Rust | Solana Developer'
+company: 'Anedot'
 location: 'United States'
-range: 'January 2021 - June 2021'
-url: 'https://www.gyro.money/'
+range: 'Feb 2021 - Jan 2023'
+url: 'https://www.anedot.com/'
 ---
 
-- Deployed smart contract and minting site on Eth main net.
-- Implemented Private Sale and bond calculator.
-- Built the company and stacking website integrated with React, Web3.JS, and API.
-- Implemented UI layouts with Ant Design, Material-UI, and styled components.
-- Migrated Gatsby and GraphQL for improving the page load speed, server-side rendering, and code splitting.
+- Designed and programmed a load-balancing backend for handling SQL requests. 
+- Used Tokio asynchronousruntime Co-authored heterogeneous, asynchronous, distributed, realtime backend system coordinated with HTTP and message queues. - Built Front-End from scratch React/Typescript with provided Figma Reduced the time spent on development by 53% with creating maintainable and reusable components. 
+- Developed Solana-Rust for lending contract which is deployed onto test net & dev net. 
+- Improved transaction execution environment to add functionality that enables validators to earn fees when they process transactions. 
+- Rewrote large majority of backend system leading to over 3 times more throught put on one third of the servers Reviewed & Tested deployed smart contract on Docker

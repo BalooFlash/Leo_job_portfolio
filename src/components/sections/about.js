@@ -70,8 +70,8 @@ const StyledPic = styled.div`
       outline: 0;
 
       &:after {
-        top: 15px;
-        left: 15px;
+        top: 0px;
+        left: 0px;
       }
 
       .img {
@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Solidity', 'web3', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Vue', 'Node.js', 'MongoDB', 'Java', 'Go', 'C#'];
+  const skills = ['Solidity', 'web3', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Vue', 'Node.js', 'MongoDB', 'Java', 'Go', 'Rust', 'Kubernet', 'Python/Django', 'C/C++', 'Cosmos', 'WebAssemble', 'AWS', '.Net', 'Solana'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,23 +136,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>------I was the <b>nerd</b> in middle school, learning <b>C++</b> in 3th grade, moving to <b>C#</b> two years later to make shooting game.</p>
-            <p>And (finally!) discovering the world outside Microsoft <b>(HTML/CSS/JS)</b> beginning in high school.</p>
-            <br/>
-            <p>
-            <b>After graduating</b>, I got active in a full time.
-            Developed websites, Android, Mobile, and games with great energy. 
-            </p>
-            <p>
-            So complicated and difficult to learn at first, but after breaking through the <b>limits</b>, 
-            I was able to <b>learn anything</b> quickly.
-            </p>
-            <br/>
-            <p>
-            I am still <b>immature!</b> so <b>run</b> hard.
-            I prefer to keep learning, continue challenging myself, and do interesting things that matter.
-            </p>
-            <p>I am moving space from developer to <b>engineer</b>.</p>
+            <p>Highly-skilled and motivated senior JS | TS | Go | Rust developer with 8 years of experience. Enhanced performance of 30 web & blockchain applications. Increased revenue by analyzing and improving app monetization strategies. Seeking to draw on proven software development and engineering skills to build out innovative business model</p>
           </div>
 
           <ul className="skills-list">

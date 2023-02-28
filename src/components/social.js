@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { socialMedia } from '@config';
 import { Side } from '@components';
-import { Icon } from '@components/icons';
+// import { Icon } from '@components/icons';
 
 const StyledSocialList = styled.ul`
   display: flex;
@@ -50,7 +50,7 @@ const Social = ({ isHome }) => (
         socialMedia.map(({ url, name }, i) => (
           <li key={i}>
             <a href={url} aria-label={name} target="_blank" rel="noreferrer">
-              <Icon name={name} />
+              {/* <Icon name={name} /> */}
             </a>
           </li>
         ))}

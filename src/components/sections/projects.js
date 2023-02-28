@@ -208,13 +208,14 @@ const Projects = () => {
 
   const GRID_LIMIT = 6;
   const projects = data.projects.edges.filter(({ node }) => node);
+  console.log(projects);
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
+  
 
   const projectInner = node => {
     const { frontmatter, html } = node;
     const { github, external, title, tech } = frontmatter;
-
     return (
       <div className="project-inner">
         <header>
@@ -262,7 +263,6 @@ const Projects = () => {
       </div>
     );
   };
-
   return (
     <StyledProjectsSection>
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>

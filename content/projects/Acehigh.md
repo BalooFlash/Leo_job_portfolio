@@ -1,13 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'AceHigh'
+title: '30mins'
 github: ''
-external: 'https://www.acehighpoker.net/'
+external: 'https://30mins.com/'
 tech:
-  - codeigniter
-  - PHP
+  - React
+  - Node
+  - Next
 company: ''
 showInProjects: true
 ---
 
-Poker game Dashboard and Admin System.
+Offer Paid Meetings, Host Exclusive Paid Events, Sell Digital Products
