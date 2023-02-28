@@ -1,14 +1,15 @@
 ---
 date: '2020-01-10'
-title: 'Tulia'
+title: 'hotwire-golang-website'
 github: ''
-external: 'https://app.d31h0a6516c3zk.amplifyapp.com/'
+external: 'https://github.com/BalooFlash/hotwire-golang-website.git'
 tech:
-  - React
-  - Redux
-  - Node.js
+  - Golang
+  - Typescript
+  - Makefile
+  - HTML
 company: ''
 showInProjects: true
 ---
 
-TuliA offers two sides to the platform, Vendor and User Both register with their emails, location and mobile phone number
+This project provides some working examples using Go and Hotwire Turbo.

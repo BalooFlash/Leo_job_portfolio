@@ -1,12 +1,18 @@
 ---
 date: '2020-01-10'
-title: 'Nomisk'
+title: 'Mirrod'
 github: ''
-external: 'https://nomisk.com/'
+external: 'https://github.com/BalooFlash/mirrod.git'
 tech:
-  - Shopify
+  - Rust
+  - Kotlin
+  - Javascript
+  - Typescript
+  - Go
+  - Python
+  - other
 company: ''
 showInProjects: true
 ---
 
-Nomisk was born to provide women with self-care essentials. We are team of women who understand your problems and want to see you glow, with more energy, joy and confidence.
+mirrord lets developers run local processes in the context of their cloud environment. It’s meant to provide the benefits of running your service on a cloud environment (e.g. staging) without actually going through the hassle of deploying it there, and without disrupting the environment by deploying untested code.
