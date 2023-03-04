@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Solidity', 'web3', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Vue', 'Node.js', 'MongoDB', 'Java', 'Go', 'Rust', 'Kubernet', 'Python/Django', 'C/C++', 'Cosmos', 'WebAssemble', 'AWS', '.Net', 'Solana'];
+  const skills = ['Rust', 'Golang', 'Nodejs', 'Java', 'Python', "Django/Flask" , 'Kubernet', 'C#', '.Net', 'Firebase',  'WebAssemble', 'Javascript', 'Typescript', 'React', 'Vue', 'Next','Solidity', 'Web3', 'Solana','Cosmos', 'SQL', 'NoSQL', 'AWS',];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
